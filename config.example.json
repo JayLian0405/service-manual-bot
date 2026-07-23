@@ -1,0 +1,10 @@
+{
+  "pdf_path": "C:\\path\\to\\service_manual.pdf",
+  "telegram_token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "model": "gemini-3.6-flash",
+  "allowed_user_ids": [],
+  "render_dpi": 150,
+  "max_llm_pages": 8,
+  "llm_use_page_images": true,
+  "gemini_api_key": "YOUR_GEMINI_API_KEY"
+}

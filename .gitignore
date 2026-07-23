@@ -1,0 +1,12 @@
+# 機敏設定（真實 token / API key / 本機路徑）
+config.json
+
+# 手冊內容屬原廠版權，不進版控
+*.pdf
+manual.db
+page_png/
+
+# 執行產物
+*.log
+__pycache__/
+*.pyc
